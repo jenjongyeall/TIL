@@ -22,7 +22,13 @@
 - 스테이징 영역
   - `git add` 명령어로 커밋에 포함시키고 싶은 파일만 스테이징 영역에 추가 
 
-- git commit --amend 명령어로 커밋내용을 수정한다.
-- 커밋 삭제하는 방법 https://violet-bora-lee.github.io/git-tutorial/
+- `git commit --amend` 명령어로 커밋내용을 수정한다.
+- 커밋 삭제하는 방법
+  - https://violet-bora-lee.github.io/git-tutorial/
 - 백틱 '`' 
+  -  차이 `.git`, '.git'  
 - `git push -u origin main` 
+- til 링크
+  - https://github.com/namjunemy/TIL/tree/master/Node.js
+- 메인화면 꾸미기 
+  - https://github.com/JuYeong0413
