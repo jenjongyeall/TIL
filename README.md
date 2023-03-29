@@ -19,3 +19,4 @@
 - 내가 최종저장하기 원하는 파일만 staging영역에 추가한다(git add)
 - git commit -m 명령어로 커밋을 만든다.
 - git commit --amend 명령어로 커밋내용을 수정한다.
+- 커밋 삭제하는 방법 https://violet-bora-lee.github.io/git-tutorial/
